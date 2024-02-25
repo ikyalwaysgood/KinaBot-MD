@@ -13,7 +13,7 @@ Dan Semua Informasimu Seperti Chat, Foto, Video Atau Vn
 Akan Aman Tanpa Di Sebar, Dan Jika Ada Balasan Yang Absurd Atau
 Sticker Absurd Ya Mungkin Owner Lagi Gabut Dan Butuh Temen Chat :v
 `;
-	await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/59c62e1b03815e2b74fe2.jpg' }, caption: rules }, m)
+	await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg' }, caption: rules }, m)
 }
 handler.help = ['rules']
 handler.tags = ['info']
