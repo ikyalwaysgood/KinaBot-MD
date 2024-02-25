@@ -8,15 +8,6 @@
 <a href="https://github.com/ClayzaAubert"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ClayzaAubert-green.svg?style=for-the-badge&logo=github"></a>
 
 
-## NOTE BEFORE USING!!
-- Edit all Owner Information on config.js
-- If the feature not working, just buy your own API key
-- OpenAI require API key, so you need provide it
----------
-- Ubah semua Informasi Owner di config.js
-- Jika sebagian fitur ada yang tidak berfungsi, beli API key lu sendiri
-- OpenAI perlu Api key jadi lu harus sediain sendiri
-
 
 ### a little about this bot
 - ✔️ | **Simple** 
@@ -44,25 +35,6 @@
 - ✔️ | Info Menu
 - ✔️ | Games Menu
 - ✔️ | Internet Menu 
----------
-### Priview
-https://youtube.com/@ClayzaAubert
-
-
-## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ClayzaAubert/Victoria_Rosalind-MD)
-
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
-
-
-#### If npm install failed, try using yarn instead of npm
-```bash
-$ pkg install yarn -y
-$ yarn install
-```
 ---------
 
 
@@ -111,66 +83,3 @@ npm start
 
 ---------
 
-## ```Arguments node . [--options] [<session name>]```
-
-## `--self`
-* activate self mode (ignores other)
-
-## `--pconly`
-* If that chat not from private bot, bot will ignore
-
-## `--gconly`
-* If that chat not from group, bot will ignore
-
-## `--swonly`
-* If that chat not from status, bot will ignore
-
-## `--prefix <prefixes>`
-* `prefixes` are seperated by each character
-Set prefix
-
-## `--server`
-* Used for [heroku](https://heroku.com/) or scan through website
-
-## `--restrict`
-* Enables restricted plugins (which can lead your number to be **banned** if used too often)
-* Group Administration `add, kick`
-
-## `--img`
-* Enable image inspector through terminal
-
-## `--autoread`
-* If enabled, all incoming messages will be marked as read
-
-## `--nyimak`
-* No bot, just print received messages and add users to database
-
-## `--test`
-* **Development** Testing Mode
-
----------
-
-#
-### 📮 S&K
-1. Jangan diperjual belikan Script ini
-2. Sebelum pakai jangan lupa kasih star
-4. Jangan salah gunakan script ini!
-5. API dari https://api.clayzaaubert.my.id
-
----------
-
-### Thanks To
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets/Baileys)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-[![ImYanXiao](https://github.com/ImYanXiao.png?size=100)](https://github.com/ImYanXiao)
-[![ShirokamiRyzen](https://github.com/ShirokamiRyzen.png?size=100)](https://github.com/ShirokamiRyzen)
-[![Zeltoria](https://github.com/Zeltoria.png?size=100)](https://github.com/Zeltoria)
-[![ClaraAubert](https://github.com/ClaraAubert.png?size=100)](https://github.com/ClaraAubert)
-[![ClayzaAubert](https://github.com/ClayzaAubert.png?size=100)](https://github.com/ClayzaAubert)
-
----------
-### Contributor
-1. Clara Aubert (Recode)
-2. Amelia Aubert (Story RPG)
-3. Clayza Aubert (Recode)
