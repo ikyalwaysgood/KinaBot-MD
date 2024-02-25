@@ -14,8 +14,6 @@ Thanks Too :
 > Clara Aubert (Support)
 > Iky Official (Recode)
 > Clayza Aubert (Recode)
-
-Script Victoria Rosalind Di Recode Oleh: *Clayza Aubert*
 `;
 
 conn.sendMessage(m.chat, {
