@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./src/Victoria-V3-min.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Victoria Rosalind V4.2</h1>
+<h1 align="center">KinaBot-MD</h1>
 
 </p>
 <p align="center">
@@ -54,8 +54,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ClayzaAubert/Victoria_Rosalind-MD
-cd Victoria_Rosalind-MD
+git clone https://github.com/ikyalwaysgood/KinaBot-MD
+cd KinaBot-MD
 npm install
 ```
 
@@ -69,8 +69,8 @@ npm install
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/ClayzaAubert/Victoria_Rosalind-MD
-cd Victoria_Rosalind-MD
+git clone https://github.com/ikyalwaysgood/KinaBot-MD
+cd KinaBot-MD
 npm install
 ```
 ---------
