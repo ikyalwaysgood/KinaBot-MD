@@ -26,16 +26,16 @@
         "whatsapp",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/ClayzaAubert/Victoria-Rosalind",
+    "homepage": "https://github.com/ikyalwaysgood/KinaBot-MD",
     "author": {
         "name": "Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ClayzaAubert/Victoria-Rosalind.git"
+        "url": "git+https://github.com/ikyalwaysgood/KinaBot-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/ClayzaAubert/Victoria-Rosalind/issues"
+        "url": "https://github.com/ikyalwaysgood/KinaBot-MD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
