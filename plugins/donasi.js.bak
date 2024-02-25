@@ -1,5 +1,5 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
-let pay = 'https://telegra.ph/file/cf107c0832a1de96efd57.jpg'
+let pay = 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg'
 let sewa = `
 ╭──「 *SEWA* 」
 ┊• *1 Minggu:* 5K
