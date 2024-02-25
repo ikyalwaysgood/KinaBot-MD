@@ -33,48 +33,48 @@ const readMore = more.repeat(4001)
 
 /// Setting Dari Sini
 global.owner = [
-  ['6281282405626', 'Clayza Aubert', true],
+  ['6285794908894', 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ', true],
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283872069306'
-global.nomorown = '6281282405626'
-global.nomorown1 = '6281282405626'
-global.nomorown2 = '6281282405626'
-global.nomorwa = '6281282405626'
+global.nomorbot = ''
+global.nomorown = '6285794908894'
+global.nomorown1 = '6285794908894'
+global.nomorown2 = '6285794908894'
+global.nomorwa = '6285794908894'
 global.readMore = readMore
-global.author = 'Clara | Clayza | Amelia'
-global.namebot = '​Victoria Rosalind'
-global.wm = '©Victoria Rosalind By Aubert'
+global.author = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
+global.namebot = '​Kιɳα Bσƚ'
+global.wm = '©Kιɳα Bσƚ By Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
 global.watermark = wm
-global.wm2 = '©Victoria Rosalind By Aubert'
+global.wm2 = '©Kιɳα Bσƚ By Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
-global.titlebot = `​Victoria Rosalind`
-global.stickpack = '​©Victoria Rosalind'
+global.titlebot = `​Kιɳα Bσƚ`
+global.stickpack = '​©Kιɳα Bσƚ'
 global.stickauth = `By Aubert`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1 = 'Clayza Aubert' // Optional
-global.nameown2 = 'Clara Aubert' // Optional
-global.thumb = 'https://i.postimg.cc/WbtRbPNN/Victoria-V3-min.jpg' // gambar di menu
-global.leave = 'https://i.postimg.cc/yxvn10Ls/ssstik-io-1689170610318.jpg' /// Untuk BG leave
+global.nameown1 = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ' // Optional
+global.nameown2 = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ' // Optional
+global.thumb = 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg' // gambar di menu
+global.leave = 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg' /// Untuk BG leave
 
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
-global.myweb = 'https://clayzaaubert.my.id' //website
-global.sig = 'https://www.instagram.com/Clayza73' //instagram
-global.sgh = 'https://github.com/ClaraAubert' //github
-global.sgc = 'https://chat.whatsapp.com/CFnyHsziHDTHFmnKDVKaSL' //group whatsapp
+global.myweb = '!' //website
+global.sig = 'https://www.instagram.com/iky_alwaysgood' //instagram
+global.sgh = '!' //github
+global.sgc = 'https://whatsapp.com/channel/0029VaACVbGDuMRk7zy6vI3a' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/c/clayzaaubert' //youtube
+global.snh = '!' //youtube
 
 //Donasi/Payment
-global.pdana = '081282405626' // Dana
-global.povo = '081282405626' // Ovo
-global.pgopay = '081282405626' // Gopay
+global.pdana = '085794908894' // Dana
+global.povo = '!' // Ovo
+global.pgopay = '085794908894' // Gopay
 
 /// Api keys
-global.clayza = '' // https://api.clayzaaubert.my.id
+global.clayza = 'FgLVY6FQhy' // https://api.clayzaaubert.my.id
 
 /// TEXT
 global.stiker_wait = '_Sedang Di Proses, Mohon Tunggu_.....'
