@@ -5,7 +5,7 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/ClayzaAubert"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ikyalwaysgood"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ-green.svg?style=for-the-badge&logo=github"></a>
 
 
 
